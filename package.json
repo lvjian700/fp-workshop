@@ -1,0 +1,14 @@
+{
+  "name": "fp-js-workshop",
+  "version": "0.0.1",
+  "description": "Xi'an Thoughtworks Functional Javascript Workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+	  "underscore": "*"
+  },
+  "author": "lvjian700",
+  "license": "MIT"
+}
